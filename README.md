@@ -3,6 +3,6 @@ AP Class (C#)
 
 HW1
 
-** Topic : **
+**Topic :**
 
 * [google](http://google.com)
