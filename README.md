@@ -5,4 +5,4 @@ HW1-[Kariman]
 
 **Parts :**
 
-* [Part1](http://google.com)
+* [Part1](https://github.com/MKariman/HW1-Kariman/tree/master/part1)
